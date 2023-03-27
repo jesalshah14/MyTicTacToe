@@ -1,8 +1,14 @@
 # MyTicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+nx run MyTicTacToe:build
+npx ng build
+npx ng serve
+npx ng build MyTicTacToe --configuration=production  
 npx ng add @angular/fire   --- other steps from youtube link
 npx ng deploy 
+firebase login
+firebase init
 
 https://www.youtube.com/watch?v=G0bBLvWXBvc
 https://www.youtube.com/watch?v=dPIyS5R6lHU
