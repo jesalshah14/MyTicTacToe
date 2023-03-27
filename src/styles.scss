@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'themes';
+
+
+
+* {
+  background-color: darkslateblue;
+  color: white;
+  font-size: revert;
+  font-style: italic;
+  font-weight: 400;
+}

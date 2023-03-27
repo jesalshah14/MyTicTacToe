@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tictactoe-jesalshah": {
+      "hosting": {
+        "MyTicTacToe": [
+          "tictactoe-jesalshah"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tictactoe-jesalshah"
+  }
+}

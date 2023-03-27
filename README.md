@@ -1,6 +1,13 @@
 # MyTicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+npx ng add @angular/fire   --- other steps from youtube link
+npx ng deploy 
+
+https://www.youtube.com/watch?v=G0bBLvWXBvc
+https://www.youtube.com/watch?v=dPIyS5R6lHU
+
+## To update in my GITHUB
 
 ## Development server
 

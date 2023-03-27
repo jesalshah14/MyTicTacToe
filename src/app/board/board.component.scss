@@ -1,0 +1,32 @@
+main {
+  display: grid;
+  grid-template-columns: 120px 120px 120px;
+  grid-gap: 0px;
+}
+
+app-square {
+  border: 1px lightgrey solid;
+  height: 120px;
+}
+
+button {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  border: 2px solid #333;
+  background-color: #fff;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #ddd;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:active {
+  transform: translateY(2px);
+}
