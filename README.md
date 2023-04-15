@@ -10,6 +10,10 @@ npx ng deploy
 firebase login
 firebase init
 
+
+●	Developed a simple Tic Tac toe game using angular and hosted in Firebase  https://tictactoe-jesalshah.web.app/
+https://tictactoe-jesalshah.firebaseapp.com/
+
 https://www.youtube.com/watch?v=G0bBLvWXBvc
 https://www.youtube.com/watch?v=dPIyS5R6lHU
 
